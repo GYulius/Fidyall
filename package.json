@@ -1,0 +1,21 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "test_server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GYulius/Fidyall"
+  },
+  "author": "Iulian Ghe",
+  "license": "GPL v.3",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
