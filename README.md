@@ -1,0 +1,2 @@
+# Fidyall
+Fidyall bot repository.
